@@ -1,4 +1,4 @@
-```bash
+```python
 Microsoft Windows [Version 10.0.18363.1256]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
